@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/.gitmodules": true,
+        "**/.vscode": true,
+        "**/*lock*": true,
+        "**/build": true,
+        "**/node_modules": true
+    },
+    "editor.wordWrap": "on"
+}

@@ -1,0 +1,3 @@
+[submodule "src/smrt-library"]
+	path = src/smrt-library
+	url = https://github.com/erzinger/smrt-library.git
